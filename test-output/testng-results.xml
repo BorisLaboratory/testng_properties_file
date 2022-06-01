@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-01T00:34:13 EDT" name="Default suite" finished-at="2022-06-01T00:34:21 EDT" duration-ms="8685">
+    <groups>
+    </groups>
+    <test started-at="2022-06-01T00:34:13 EDT" name="Default test" finished-at="2022-06-01T00:34:21 EDT" duration-ms="8685">
+      <class name="LogInFromPropertiesFile.LoginTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:LogInFromPropertiesFile.LoginTest@54d9d12d]" started-at="2022-06-01T00:34:13 EDT" name="initialization" finished-at="2022-06-01T00:34:18 EDT" duration-ms="4670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="Login()[pri:0, instance:LogInFromPropertiesFile.LoginTest@54d9d12d]" started-at="2022-06-01T00:34:18 EDT" name="Login" finished-at="2022-06-01T00:34:21 EDT" duration-ms="3934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="conclusionofTest()[pri:0, instance:LogInFromPropertiesFile.LoginTest@54d9d12d]" started-at="2022-06-01T00:34:21 EDT" name="conclusionofTest" finished-at="2022-06-01T00:34:21 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conclusionofTest -->
+      </class> <!-- LogInFromPropertiesFile.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
