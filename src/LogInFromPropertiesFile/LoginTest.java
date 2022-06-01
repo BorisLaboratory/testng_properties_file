@@ -16,12 +16,8 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 /*
-			
-	Module 9 – Assignment 4
-	You have been asked to:
-	
-	Write a TestScript to Automate www.saucedemo.com Login in TestNG
-	- Pass parameters from .properties fil
+	  TestScript to Automate www.saucedemo.com Login in TestNG
+	- Passing parameters from .properties file
  */
 import io.github.bonigarcia.wdm.WebDriverManager;
 
